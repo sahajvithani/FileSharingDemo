@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileSharingDemo</string>
+    <string name="sender">Sender</string>
+    <string name="receiver">Receiver</string>
+    <string name="hotspot_details_message">hotspot details message</string>
+    <string name="hotspot_ssid_label">ssid label</string>
+    <string name="hotspot_pass_label">pass label</string>
+</resources>
